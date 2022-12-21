@@ -65,7 +65,7 @@ No. Only jewellers can add sockets to neck which means you will need to buy item
 sockets. 
 
 Buy **two** tiered medallion settings. If you want to save gold, one should be silver quality (two star) and the other gold 
-(three star). **Use** the two star one first or otherwise you will need to buy another three starred one.
+(three star). Use the **two** star one first or otherwise you will need to buy another three starred one.
 
 ### What should I put in my sockets?
 
