@@ -3,6 +3,7 @@
 
 ### Step 1: 
 Gather the necessary materials. The materials that are **not** spec/class specific are:
+
             1. **Spark of Ingenuity** (Biweekly questline - you should have at least 1)
             2. **30 Primal Chaos** These come from outdoor activities/raid/pvp/dungeons/playing the game
             3. **Shimmering Clasps** Just buy them from the Auction House
@@ -68,6 +69,7 @@ Buy **two** tiered medallion settings. If you want to save gold, one should be s
 ### What should I put in my sockets?
 
 There are many different types of gems in dragonflight. 
+
             1. Gems with one secondary stat. They offer the highest possible **singular** secondary stat you can get from one gem.
             2. Gems with two secondary stats. They offer the highest possible **total** secondary stats you can get from one gem. 
                They will *all* have one secondary stat which is significantly higher than the other. **Important** The type of gem
