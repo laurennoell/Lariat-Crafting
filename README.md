@@ -102,7 +102,7 @@ better if they are the same type of gems.
 
 ### Rank 3 Illimited Diamond is too expensive, can I craft with rank 2 instead?
 
-You can except Daranorr can't gaurantee the same level for your neck (so won't be rank 4). This is *okay* since at the end of the day,
+You can except Daranorr can't guaranteed the same level for your neck (so won't be rank 4). This is *okay* since at the end of the day,
 you can recraft your neck. Recrafting works like this:
 
             1. Go back to the same chick where you can play crafting orders. On the top left, there is a button: "Place Recrafting Order". 
@@ -116,6 +116,3 @@ If you originally used rank 2 illimited diamond but put in rank 3 of everything 
 of your neck. This may be *cheaper* depending on the price of rank 3 illimited diamond. As of me writing this (12/21/2022), rank 3 illimited diamond is
 40,000 gold which means even if you pay daranorr the 10k fee everytime for your recraft, you should still come out ahead gold wise. It is a little more
 work however and you'll need to wait a little longer to get your neck. 
-
-
-
