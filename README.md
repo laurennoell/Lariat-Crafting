@@ -12,4 +12,4 @@ Gather the necessary materials. The materials that are NOT spec/class specific a
              primal if you have it (drops 1 per m+11 or higher completed), if you don't its fine 
              because you can recraft them in the future without the need for an ingenuity. 
 
-The 
+The sdf
