@@ -7,7 +7,8 @@ Gather the necessary materials. The materials that are **not** spec/class specif
             1. Spark of Ingenuity (Biweekly questline - you should have at least 1)
             2. 30 Primal Chaos These come from outdoor activities/raid/pvp/dungeons/playing the game
             3. Shimmering Clasps Just buy them from the Auction House
-            4. Illimited Diamond - AH. If you're really strapped on cash, you can get rank 2 but if you get rank 3, the neck will be rank 4 which is really nice.
+            4. Illimited Diamond - AH. If you're really strapped on cash, you can get rank 2 but if you 
+            get rank 3, the neck will be rank 4 which is really nice.
             5. Elemental Harmony - Buy it from the Auction house. 
             6. Some kind of an infusion either primal or concentrated primal. I think go with 
              primal if you have it (drops 1 per m+11 or higher completed), if you don't its fine 
@@ -84,15 +85,17 @@ There are many different types of gems in dragonflight.
             
 ### Okay that was a lot of information but what gems should I actually then get?    
             
-This is the same step as above when you were trying to find which missive you want to buy. Ask others in the guild who play your class/spec,
-check your respective class discords or check warcraftlogs. Chances are almost everyone in your spec will be using the same stat. In my opinion,
-it is not worth simming your character because your secondary weightings will change with gear and what is good for you now wont be when you equip
-whatever new gear you get (unless you're a healer then you don't get gear). 
+This is the same step as above when you were trying to find which missive you want to buy. Ask others in the guild who play your 
+class/spec, check your respective class discords or check warcraftlogs. Chances are almost everyone in your spec will be using the same stat. 
+In my opinion, it is not worth simming your character because your secondary weightings will change with gear and what is good for you now wont 
+be when you equip whatever new gear you get (unless you're a healer then you don't get gear). 
 
 You want to socket **one** unique gem (that is, the one with primary stat and secondary stat) and two of the 
-same types of gems of type b) in the above list. Please make sure the unique equipped gem is the same **type** as the other gems (same secondary stat).    
+same types of gems of type b) in the above list. Please make sure the unique equipped gem is the same **type** as the other gems 
+(same secondary stat).    
 
 ### A word on how the lariat neck works.
             
-The reason you want to socket the same *type* of gem is because it will choose from one of the socketed gems in your neck and give you secondary stats based on that.
-Multiple procs cannot happen independently of one another so it will probably always be better if they are the same type of gems.
+The reason you want to socket the same *type* of gem is because it will choose from one of the socketed gems in your neck and 
+give you secondary stats based on that. Multiple procs cannot happen independently of one another so it will probably always be 
+better if they are the same type of gems.
