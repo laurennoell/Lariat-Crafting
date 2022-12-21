@@ -91,7 +91,7 @@ In my opinion, it is not worth simming your character because your secondary wei
 be when you equip whatever new gear you get (unless you're a healer then you don't get gear). 
 
 You want to socket **one** unique gem (that is, the one with primary stat and secondary stat) and two of the 
-same types of gems of type b) in the above list. Please make sure the unique equipped gem is the same **type** as the other gems 
+same types of gems of type 2 in the above list. Please make sure the unique equipped gem is the same **type** as the other gems 
 (same secondary stat).    
 
 ### A word on how the lariat neck works.
