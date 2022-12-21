@@ -4,12 +4,12 @@
 ### Step 1: 
 Gather the necessary materials. The materials that are **not** spec/class specific are:
 
-            1. **Spark of Ingenuity** (Biweekly questline - you should have at least 1)
-            2. **30 Primal Chaos** These come from outdoor activities/raid/pvp/dungeons/playing the game
-            3. **Shimmering Clasps** Just buy them from the Auction House
-            4. **Illimited Diamond** - AH. Probably fine to buy rank 2 since daranorr can guarantee a rank 4 neck with rank 2.
-            5. **Elemental Harmony** - Kind of expensive. Buy it from the Auction house. 
-            6. Some kind of an **infusion** either primal or concentrated primal. I think go with 
+            1. Spark of Ingenuity (Biweekly questline - you should have at least 1)
+            2. 30 Primal Chaos These come from outdoor activities/raid/pvp/dungeons/playing the game
+            3. Shimmering Clasps Just buy them from the Auction House
+            4. Illimited Diamond - AH. If you're really strapped on cash, you can get rank 2 but if you get rank 3, the neck will be rank 4 which is really nice.
+            5. Elemental Harmony - Buy it from the Auction house. 
+            6. Some kind of an infusion either primal or concentrated primal. I think go with 
              primal if you have it (drops 1 per m+11 or higher completed), if you don't its fine 
              because you can recraft them in the future without the need for an ingenuity. 
 
@@ -70,16 +70,16 @@ Buy **two** tiered medallion settings. If you want to save gold, one should be s
 
 There are many different types of gems in dragonflight. 
 
-            1. Gems with one secondary stat. They offer the highest possible **singular** secondary stat you can get from one gem.
-            2. Gems with two secondary stats. They offer the highest possible **total** secondary stats you can get from one gem. 
-               They will *all* have one secondary stat which is significantly higher than the other. **Important** The type of gem
-               is determined by whichever secondary stat is **lower**. For example, crafty alexandrite has 70 critical strike and 30
-               haste. This means it is a **haste** type gem.
+            1. Gems with one secondary stat. They offer the highest possible singular secondary stat you can get from one gem.
+            2. Gems with two secondary stats. They offer the highest possible total secondary stats you can get from one gem. 
+               They will all have one secondary stat which is significantly higher than the other. **Important** The type of gem
+               is determined by whichever secondary stat is lower. For example, crafty alexandrite has 70 critical strike and 30
+               haste. This means it is a haste type gem.
             3. Gems that have one primary stat and one secondary stat. These are generally the most powerful for any character but
-               they are **unique** equipped and **cannot** be bought from the auction house but must instead be ordered from the same
+               they are unique equipped and cannot be bought from the auction house but must instead be ordered from the same
                chick mentioned above. Please check the #crafting-orders channel to see if anyone can craft the gem which you are
-               looking for. For example, *Vaereth* can make crit gems. This means he can make the gem which gives you 75 primary stat 
-               66 critical strike (called **Inscribed Illimited Diamond**). *All* of these gems are called (*something*) Illimited Diamond and
+               looking for. For example, Vaereth can make crit gems. This means he can make the gem which gives you 75 primary stat 
+               66 critical strike (called Inscribed Illimited Diamond). All of these gems are called (*something*) Illimited Diamond and
                the type gem they are is determined by their secondary stat. 
             
 ### Okay that was a lot of information but what gems should I actually then get?    
