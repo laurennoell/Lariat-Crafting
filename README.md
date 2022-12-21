@@ -30,7 +30,7 @@ This means he has the missive with Critical Strike and Versatility Missive.
 
 ### I found what stats I want on my neck, how do I know what the missive is called?
 
-Go to the auction house, in the search bar type Draconic MIssive scroll down to the bottom and you will 
+Go to the auction house, in the search bar type Draconic Missive scroll down to the bottom and you will 
 see all of the 3 star missives (they are usually at the bottom since they are more expensive). Find the 
 one that is relevant for you and click "buyout". 
 
