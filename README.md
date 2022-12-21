@@ -50,10 +50,47 @@ and if you are going to be using an infusion, enter that as well. Everything els
 
 ### Very Important
 
-Set the commission to 10,000gold. I recommend setting the duration to 48 hours just in case but it likely doesn't matter Daranorr is a gamer.
+Set the commission to 10,000gold. I recommend setting the duration to 48 hours just in case but it likely doesn't matter 
+Daranorr is a gamer.
 
 ### Step 3
 
 Click "Place Order" and wait.
 
+### I've recieved my neck, but it only has one socket. Did I do something wrong?
 
+No. Only jewellers can add sockets to neck which means you will need to buy items made by jewellers to make the other two 
+sockets. 
+
+Buy **two** tiered medallion settings. If you want to save gold, one should be silver quality (two star) and the other gold 
+(three star). **Use** the two star one first or otherwise you will need to buy another three starred one.
+
+### What should I put in my sockets?
+
+There are many different types of gems in dragonflight. 
+            a) Gems with one secondary stat. They offer the highest possible **singular** secondary stat you can get from one gem.
+            b) Gems with two secondary stats. They offer the highest possible **total** secondary stats you can get from one gem. 
+               They will *all* have one secondary stat which is significantly higher than the other. **Important** The type of gem
+               is determined by whichever secondary stat is **lower**. For example, crafty alexandrite has 70 critical strike and 30
+               haste. This means it is a **haste** type gem.
+            c) Gems that have one primary stat and one secondary stat. These are generally the most powerful for any character but
+               they are **unique** equipped and **cannot** be bought from the auction house but must instead be ordered from the same
+               chick mentioned above. Please check the #crafting-orders channel to see if anyone can craft the gem which you are
+               looking for. For example, *Vaereth* can make crit gems. This means he can make the gem which gives you 75 primary stat 
+               66 critical strike (called **Inscribed Illimited Diamond**). *All* of these gems are called (*something*) Illimited Diamond and
+               the type gem they are is determined by their secondary stat. 
+            
+### Okay that was a lot of information but what gems should I actually then get?    
+            
+This is the same step as above when you were trying to find which missive you want to buy. Ask others in the guild who play your class/spec,
+check your respective class discords or check warcraftlogs. Chances are almost everyone in your spec will be using the same stat. In my opinion,
+it is not worth simming your character because your secondary weightings will change with gear and what is good for you now wont be when you equip
+whatever new gear you get (unless you're a healer then you don't get gear). 
+
+You want to socket **one** unique gem (that is, the one with primary stat and secondary stat) and two of the 
+same types of gems of type b) in the above list. Please make sure the unique equipped gem is the same **type** as the other gems (same secondary stat).    
+
+### A word on how the lariat neck works.
+            
+The reason you want to socket the same *type* of gem is because it will choose from one of the socketed gems in your neck and give you secondary stats based on that.
+Multiple procs cannot happen independently of one another so it will probably always be better if they are the same type of gems.
