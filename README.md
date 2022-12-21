@@ -8,7 +8,7 @@ Gather the necessary materials. The materials that are **not** spec/class specif
             2. 30 Primal Chaos These come from outdoor activities/raid/pvp/dungeons/playing the game
             3. Shimmering Clasps Just buy them from the Auction House
             4. Illimited Diamond - AH. If you're really strapped on cash, you can get rank 2 but if you 
-            get rank 3, the neck will be rank 4 which is really nice.
+            get rank 3, the neck will be rank 4 which is really nice. More words on recrafting at the end.
             5. Elemental Harmony - Buy it from the Auction house. 
             6. Some kind of an infusion either primal or concentrated primal. I think go with 
              primal if you have it (drops 1 per m+11 or higher completed), if you don't its fine 
@@ -73,7 +73,7 @@ There are many different types of gems in dragonflight.
 
             1. Gems with one secondary stat. They offer the highest possible singular secondary stat you can get from one gem.
             2. Gems with two secondary stats. They offer the highest possible total secondary stats you can get from one gem. 
-               They will all have one secondary stat which is significantly higher than the other. **Important** The type of gem
+               They will all have one secondary stat which is significantly higher than the other. (Important) The type of gem
                is determined by whichever secondary stat is lower. For example, crafty alexandrite has 70 critical strike and 30
                haste. This means it is a haste type gem.
             3. Gems that have one primary stat and one secondary stat. These are generally the most powerful for any character but
@@ -99,3 +99,23 @@ same types of gems of type b) in the above list. Please make sure the unique equ
 The reason you want to socket the same *type* of gem is because it will choose from one of the socketed gems in your neck and 
 give you secondary stats based on that. Multiple procs cannot happen independently of one another so it will probably always be 
 better if they are the same type of gems.
+
+### Rank 3 Illimited Diamond is too expensive, can I craft with rank 2 instead?
+
+You can except Daranorr can't gaurantee the same level for your neck (so won't be rank 4). This is *okay* since at the end of the day,
+you can recraft your neck. Recrafting works like this:
+
+            1. Go back to the same chick where you can play crafting orders. On the top left, there is a button: "Place Recrafting Order". 
+            2. You do not need new reagents except the shimmering clasp and elemental harmony (cheap), it saves the rest from your last craft
+            including the missive, illimited diamond, your infusion of choice and spark of ingenuity. You CAN change the missive or infusion
+            if you want to do so. 
+            3. Everytime you recraft, the chance for getting a higher rank increases but is not guaranteed even if the crafter has the
+            necessary skill to do so. 
+ 
+If you originally used rank 2 illimited diamond but put in rank 3 of everything else, I believe it will take on average 2-3 recrafts to get rank 4
+of your neck. This may be *cheaper* depending on the price of rank 3 illimited diamond. As of me writing this (12/21/2022), rank 3 illimited diamond is
+40,000 gold which means even if you pay daranorr the 10k fee everytime for your recraft, you should still come out ahead gold wise. It is a little more
+work however and you'll need to wait a little longer to get your neck. 
+
+
+
