@@ -95,7 +95,7 @@ The reason you want to socket the same *type* of gem is because it will choose f
 give you secondary stats based on that. Multiple procs cannot happen independently of one another so it will probably always be 
 better if they are the same type of gems.
 
-### Rank 3 Illimited Diamond is too expensive, can I craft with rank 2 instead?
+### Rank 3 Illimited Diamond is too expensive, can I craft with rank 2 instead? / Recrafting how-to
 
 You can except Luke can't guaranteed the same level for your neck (so won't be rank 4). This is *okay* since at the end of the day,
 you can recraft your neck. Recrafting works like this:
@@ -106,6 +106,8 @@ you can recraft your neck. Recrafting works like this:
             if you want to do so. 
             3. Everytime you recraft, the chance for getting a higher rank increases but is not guaranteed even if the crafter has the
             necessary skill to do so. 
+            
+![image](https://user-images.githubusercontent.com/80606953/209083221-4ff6f4e7-703f-4f28-9b23-8d85c685ffc7.png)
  
 If you originally used rank 2 illimited diamond but put in rank 3 of everything else, I believe it will take on average 2-3 recrafts to get rank 4
 of your neck. This may be *cheaper* depending on the price of rank 3 illimited diamond. As of me writing this (12/21/2022), rank 3 illimited diamond is
