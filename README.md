@@ -44,16 +44,11 @@ Find the neck.
 
 ![image](https://user-images.githubusercontent.com/80606953/208825920-e107f062-4bf7-4178-ae4a-c0a833f1ddf3.png)
 
-Click on the neck. Go to the top right field and make sure the drop down says personal order. Type **Daranorr** in 
-the "to:  " field and set the minimum quality to 3. Under *Customize Secondary Stats*, select your bought missive 
-and if you are going to be using an infusion, enter that as well. Everything else should automatically be filled out. 
+Click on the neck. Go to the top right field and make sure the drop down says guild order. Under 
+*Customize Secondary Stats*, select your bought missive and if you are going to be using an infusion, enter 
+that as well. Everything else should automatically be filled out. 
 
 ![image](https://user-images.githubusercontent.com/80606953/208825962-146c8e87-0ea5-4493-8d1b-3abc8b431c43.png)
-
-### Very Important
-
-Set the commission to 10,000gold. I recommend setting the duration to 48 hours just in case but it likely doesn't matter 
-Daranorr is a gamer.
 
 ### Step 3
 
@@ -102,7 +97,7 @@ better if they are the same type of gems.
 
 ### Rank 3 Illimited Diamond is too expensive, can I craft with rank 2 instead?
 
-You can except Daranorr can't guaranteed the same level for your neck (so won't be rank 4). This is *okay* since at the end of the day,
+You can except Luke can't guaranteed the same level for your neck (so won't be rank 4). This is *okay* since at the end of the day,
 you can recraft your neck. Recrafting works like this:
 
             1. Go back to the same chick where you can play crafting orders. On the top left, there is a button: "Place Recrafting Order". 
@@ -114,5 +109,5 @@ you can recraft your neck. Recrafting works like this:
  
 If you originally used rank 2 illimited diamond but put in rank 3 of everything else, I believe it will take on average 2-3 recrafts to get rank 4
 of your neck. This may be *cheaper* depending on the price of rank 3 illimited diamond. As of me writing this (12/21/2022), rank 3 illimited diamond is
-40,000 gold which means even if you pay daranorr the 10k fee everytime for your recraft, you should still come out ahead gold wise. It is a little more
-work however and you'll need to wait a little longer to get your neck. 
+40,000 gold which means even if you pay luke a 10k fee everytime for your recraft (don't have to but you can be nice), you should still come out ahead 
+gold wise. It is a little more work however and you'll need to wait a little longer to get your neck. 
