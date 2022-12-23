@@ -89,6 +89,8 @@ You want to socket **one** unique gem (that is, the one with primary stat and se
 same types of gems of type 2 in the above list. Please make sure the unique equipped gem is the same **type** as the other gems 
 (same secondary stat).    
 
+**when you're sending in your crafting order for the unique gem, most crafters can guarantee a rank 3 gem with rank 2 illimited diamond**
+
 ### A word on how the lariat neck works.
             
 The reason you want to socket the same *type* of gem is because it will choose from one of the socketed gems in your neck and 
