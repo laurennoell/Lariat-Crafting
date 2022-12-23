@@ -77,6 +77,9 @@ There are many different types of gems in dragonflight.
                looking for. For example, Vaereth can make crit gems. This means he can make the gem which gives you 75 primary stat 
                66 critical strike (called Inscribed Illimited Diamond). All of these gems are called (*something*) Illimited Diamond and
                the type gem they are is determined by their secondary stat. 
+
+### Important
+When you're sending in your crafting order for the unique gem, most crafters can guarantee a rank 3 gem with rank 2 illimited diamond
             
 ### Okay that was a lot of information but what gems should I actually then get?    
             
@@ -88,8 +91,6 @@ be when you equip whatever new gear you get (unless you're a healer then you don
 You want to socket **one** unique gem (that is, the one with primary stat and secondary stat) and two of the 
 same types of gems of type 2 in the above list. Please make sure the unique equipped gem is the same **type** as the other gems 
 (same secondary stat).    
-
-**when you're sending in your crafting order for the unique gem, most crafters can guarantee a rank 3 gem with rank 2 illimited diamond**
 
 ### A word on how the lariat neck works.
             
